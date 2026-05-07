@@ -1,9 +1,12 @@
 {
   "expo": {
-    "name": "Containerapp",
+    "name": "ContainerApp",
     "slug": "containerapp",
     "version": "1.0.0",
     "orientation": "portrait",
+    "splash": {
+      "backgroundColor": "#0d1757"
+    },
     "android": {
       "package": "com.rioestiba.containerapp"
     },
