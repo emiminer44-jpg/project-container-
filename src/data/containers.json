@@ -1,0 +1,2558 @@
+[
+  {
+    "contenedor": "8179447",
+    "estado": "LLENO",
+    "precinto": "3321786",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4650 SSH",
+    "inspeccion": "2026-03-01",
+    "areas": "A1"
+  },
+  {
+    "contenedor": "4002623",
+    "estado": "VACÍO",
+    "precinto": "3140830",
+    "ubicacion": "720",
+    "producto": "ARENA",
+    "inspeccion": "2026-04-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8214152",
+    "estado": "VACÍO",
+    "precinto": "3140831",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-05-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4443806",
+    "estado": "LLENO",
+    "precinto": "3321801",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4617590",
+    "estado": "VACÍO",
+    "precinto": "3321900",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-07-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3906567",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8036408",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "PALLETS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1189524",
+    "estado": "ABIERTO",
+    "precinto": "3321752",
+    "ubicacion": "720",
+    "producto": "RESINA 62I",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5684551",
+    "estado": "LLENO",
+    "precinto": "3321775",
+    "ubicacion": "720",
+    "producto": "RESINA HPR 4200",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5536298",
+    "estado": "LLENO",
+    "precinto": "3321751",
+    "ubicacion": "720",
+    "producto": "RESINA HPR 4200",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6995402",
+    "estado": "ABIERTO",
+    "precinto": "3321793",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4190 PWG",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1202129",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "PALLETS",
+    "inspeccion": "2026-03-01",
+    "areas": "A2"
+  },
+  {
+    "contenedor": "6770857",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5870625",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8199164",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "HERRAMIENTAS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5668614",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6468141",
+    "estado": "LLENO",
+    "precinto": "3321822",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8399202",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5293738",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7117634",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "PALLETS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8636259",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "HIDROCARBUROS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8053880",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1910964",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9327240",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8165959",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9266030",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9703308",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": "A3"
+  },
+  {
+    "contenedor": "9222492",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "FLOPAM 920 VHR",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8453366",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8862540",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6937171",
+    "estado": "LLENO",
+    "precinto": "3321764",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4279304",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "UREA",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9309240",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "REEMBOLSE",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5047281",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9447297",
+    "estado": "VACÍO",
+    "precinto": "3140874",
+    "ubicacion": "720",
+    "producto": "Talco",
+    "inspeccion": "2026-03-01",
+    "areas": "A4"
+  },
+  {
+    "contenedor": "5963733",
+    "estado": "ABIERTO",
+    "precinto": "3321888",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7281913",
+    "estado": "LLENO",
+    "precinto": "3140872",
+    "ubicacion": "720",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8462474",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8005241",
+    "estado": "LLENO",
+    "precinto": "3140873",
+    "ubicacion": "720",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9275203",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9213637",
+    "estado": "LLENO",
+    "precinto": "3321887",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1907575",
+    "estado": "LLENO",
+    "precinto": "3321807",
+    "ubicacion": "720",
+    "producto": "FLOPAM 934 PWG",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8272050",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5605292",
+    "estado": "LLENO",
+    "precinto": "3140880",
+    "ubicacion": "720",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4954309",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "SULFURO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9474668",
+    "estado": "LLENO",
+    "precinto": "3321882",
+    "ubicacion": "720",
+    "producto": "SULFURO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8646932",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "SULFURO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4039296",
+    "estado": "LLENO",
+    "precinto": "3321794",
+    "ubicacion": "720",
+    "producto": "SULFURO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "796650",
+    "estado": "LLENO",
+    "precinto": "ARRIBA",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8626913",
+    "estado": "ABIERTO",
+    "precinto": "3140880",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4650 SSH",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1957432",
+    "estado": "LLENO",
+    "precinto": "ARRIBA",
+    "ubicacion": "720",
+    "producto": "FLOPAM 920 VHR",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8831121",
+    "estado": "LLENO",
+    "precinto": "3321830",
+    "ubicacion": "720",
+    "producto": "FLOPAM 920 VHR",
+    "inspeccion": "2026-03-01",
+    "areas": "A5"
+  },
+  {
+    "contenedor": "621928",
+    "estado": "LLENO",
+    "precinto": "ARRIBA",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4650 SSH",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8139078",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4650 SSH",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8017549",
+    "estado": "LLENO",
+    "precinto": "3321748",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4190 PWG",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9920272",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4650 SSH",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8906170",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4650 SSH",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6431642",
+    "estado": "LLENO",
+    "precinto": "3321771",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4650 SSH",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5360780",
+    "estado": "LLENO",
+    "precinto": "ARRIBA",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4650 SSH",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8960313",
+    "estado": "LLENO",
+    "precinto": "3321821",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5876528",
+    "estado": "LLENO",
+    "precinto": "ARRIBA",
+    "ubicacion": "720",
+    "producto": "FLOPAM 4650 SSH",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5743507",
+    "estado": "LLENO",
+    "precinto": "3321750",
+    "ubicacion": "720",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9405461",
+    "estado": "LLENO",
+    "precinto": "3140844",
+    "ubicacion": "720",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "952368",
+    "estado": "LLENO",
+    "precinto": "1058038",
+    "ubicacion": "720",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8119081",
+    "estado": "LLENO",
+    "precinto": "3321749",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": "A6"
+  },
+  {
+    "contenedor": "9000162",
+    "estado": "LLENO",
+    "precinto": "3140841",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8970724",
+    "estado": "VACÍO",
+    "precinto": "3321862",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8131442",
+    "estado": "LLENO",
+    "precinto": "3140864",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8115366",
+    "estado": "LLENO",
+    "precinto": "3321827",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5461801",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4355752",
+    "estado": "LLENO",
+    "precinto": "3321745",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7167120",
+    "estado": "LLENO",
+    "precinto": "3140840",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5079798",
+    "estado": "LLENO",
+    "precinto": "3140839",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5003758",
+    "estado": "LLENO",
+    "precinto": "3140838",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6618512",
+    "estado": "LLENO",
+    "precinto": "3321894",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7269337",
+    "estado": "LLENO",
+    "precinto": "3321865",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6163288",
+    "estado": "VACÍO",
+    "precinto": "3321864",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6323609",
+    "estado": "LLENO",
+    "precinto": "ARRIBA",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1302",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9483417",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": "A7"
+  },
+  {
+    "contenedor": "6664086",
+    "estado": "LLENO",
+    "precinto": "3321871",
+    "ubicacion": "720",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6104311",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8252100",
+    "estado": "LLENO",
+    "precinto": "3321871",
+    "ubicacion": "720",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8397422",
+    "estado": "LLENO",
+    "precinto": "3321825",
+    "ubicacion": "720",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9500811",
+    "estado": "LLENO",
+    "precinto": "3321838",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8734292",
+    "estado": "LLENO",
+    "precinto": "3140875",
+    "ubicacion": "720",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8752862",
+    "estado": "LLENO",
+    "precinto": "3321797",
+    "ubicacion": "720",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5773607",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "929072",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7024752",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "937208",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8832694",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7991016",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3317177",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1464772",
+    "estado": "LLENO",
+    "precinto": "falta",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "2728502",
+    "estado": "VACÍO",
+    "precinto": "3321840",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1251120",
+    "estado": "LLENO",
+    "precinto": "falta",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-04-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9334901",
+    "estado": "LLENO",
+    "precinto": "3321881",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7852659",
+    "estado": "LLENO",
+    "precinto": "3321806",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8900433",
+    "estado": "LLENO",
+    "precinto": "3321734",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8499343",
+    "estado": "LLENO",
+    "precinto": "3321836",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6719698",
+    "estado": "LLENO",
+    "precinto": "3321854",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8767728",
+    "estado": "LLENO",
+    "precinto": "3321735",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4616141",
+    "estado": "LLENO",
+    "precinto": "3321884",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8334921",
+    "estado": "LLENO",
+    "precinto": "331736",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6763460",
+    "estado": "VACÍO",
+    "precinto": "3321808",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": "A8"
+  },
+  {
+    "contenedor": "3950190",
+    "estado": "LLENO",
+    "precinto": "3321899",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6670699",
+    "estado": "LLENO",
+    "precinto": "3327832",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5188855",
+    "estado": "LLENO",
+    "precinto": "3321833",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6254251",
+    "estado": "LLENO",
+    "precinto": "3321834",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3029421",
+    "estado": "LLENO",
+    "precinto": "3321835",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "2783376",
+    "estado": "LLENO",
+    "precinto": "3321843",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3976656",
+    "estado": "LLENO",
+    "precinto": "3321813",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "2423810",
+    "estado": "LLENO",
+    "precinto": "3321875",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1418750",
+    "estado": "LLENO",
+    "precinto": "3321874",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1169111",
+    "estado": "LLENO",
+    "precinto": "3321873",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3575239",
+    "estado": "LLENO",
+    "precinto": "1058023",
+    "ubicacion": "720",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3281979",
+    "estado": "LLENO",
+    "precinto": "1058022",
+    "ubicacion": "720",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5656360",
+    "estado": "VACÍO",
+    "precinto": "3140886",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": "Z1"
+  },
+  {
+    "contenedor": "9732663",
+    "estado": "VACÍO",
+    "precinto": "331767",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3024918",
+    "estado": "VACÍO",
+    "precinto": "1058081",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3717286",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4017791",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "CELULOSA ROTA",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7690538",
+    "estado": "LLENO",
+    "precinto": "3321776",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6263602",
+    "estado": "VACÍO",
+    "precinto": "3321849",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6281440",
+    "estado": "LLENO",
+    "precinto": "3321781",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9826876",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "PALLETS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9373776",
+    "estado": "LLENO",
+    "precinto": "3321782",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3688917",
+    "estado": "LLENO",
+    "precinto": "3321777",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9379506",
+    "estado": "LLENO",
+    "precinto": "3321778",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6883379",
+    "estado": "LLENO",
+    "precinto": "3321779",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7079210",
+    "estado": "LLENO",
+    "precinto": "3321783",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6778824",
+    "estado": "VACÍO",
+    "precinto": "3140892",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8837994",
+    "estado": "LLENO",
+    "precinto": "3321785",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8233886",
+    "estado": "LLENO",
+    "precinto": "3321876",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8253403",
+    "estado": "LLENO",
+    "precinto": "3321784",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6064670",
+    "estado": "LLENO",
+    "precinto": "3321755",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4037007",
+    "estado": "LLENO",
+    "precinto": "3321754",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1650712",
+    "estado": "LLENO",
+    "precinto": "3321753",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9023529",
+    "estado": "LLENO",
+    "precinto": "3140900",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5658393",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": "Z2"
+  },
+  {
+    "contenedor": "8013900",
+    "estado": "LLENO",
+    "precinto": "3321764",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3691072",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4612536",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4460460",
+    "estado": "LLENO",
+    "precinto": "3321756",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6459420",
+    "estado": "LLENO",
+    "precinto": "3140826",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5732582",
+    "estado": "VACÍO",
+    "precinto": "3140821",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8178648",
+    "estado": "LLENO",
+    "precinto": "3321757",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8992840",
+    "estado": "LLENO",
+    "precinto": "3321760",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9705582",
+    "estado": "LLENO",
+    "precinto": "3140818",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9573205",
+    "estado": "LLENO",
+    "precinto": "3140818",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8007802",
+    "estado": "LLENO",
+    "precinto": "3140816",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8132985",
+    "estado": "LLENO",
+    "precinto": "3321841",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1907683",
+    "estado": "LLENO",
+    "precinto": "3321758",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6828608",
+    "estado": "VACÍO",
+    "precinto": "1058076",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5574578",
+    "estado": "VACÍO",
+    "precinto": "1058088",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8399849",
+    "estado": "LLENO",
+    "precinto": "3321758",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8015550",
+    "estado": "LLENO",
+    "precinto": "3140815",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9608812",
+    "estado": "LLENO",
+    "precinto": "3321860",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8146292",
+    "estado": "LLENO ",
+    "precinto": "3321959",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8661890",
+    "estado": "LLENO",
+    "precinto": "3140803",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8628295",
+    "estado": "LLENO",
+    "precinto": "3140812",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5780610",
+    "estado": "LLENO",
+    "precinto": "3140811",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7057221",
+    "estado": "LLENO",
+    "precinto": "3321809",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8257390",
+    "estado": "LLENO",
+    "precinto": "3140810",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8389326",
+    "estado": "LLENO",
+    "precinto": "3140809",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE SODIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9842155",
+    "estado": "LLENO",
+    "precinto": "3140808",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9061262",
+    "estado": "VACÍO",
+    "precinto": "3140898",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4945640",
+    "estado": "VACÍO",
+    "precinto": "3140807",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7154807",
+    "estado": "LLENO",
+    "precinto": "3321769",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4416381",
+    "estado": "LLENO",
+    "precinto": "3321814",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4002310",
+    "estado": "LLENO",
+    "precinto": "3140803",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5841088",
+    "estado": "LLENO",
+    "precinto": "3321877",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6201771",
+    "estado": "LLENO",
+    "precinto": "3321766",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8034637",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8085125",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "CELULOSA ROTA",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6265859",
+    "estado": "LLENO",
+    "precinto": "3321761",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": "Z3"
+  },
+  {
+    "contenedor": "6634355",
+    "estado": "VACÍO",
+    "precinto": "3140881",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4865246",
+    "estado": "LLENO",
+    "precinto": "3140885",
+    "ubicacion": "A5",
+    "producto": "BOLSONES VACÍOS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8210847",
+    "estado": "LLENO",
+    "precinto": "3321804",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5541727",
+    "estado": "LLENO",
+    "precinto": "3140884",
+    "ubicacion": "A5",
+    "producto": "BOLSONES VACÍOS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7283016",
+    "estado": "LLENO",
+    "precinto": "3140883",
+    "ubicacion": "A5",
+    "producto": "BOLSONES VACÍOS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8142893",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "PALLETS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6698009",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4568547",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "BOLSONES",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8389679",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "BOLSONES",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6869020",
+    "estado": "LLENO",
+    "precinto": "3140882",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8707767",
+    "estado": "LLENO",
+    "precinto": "3321769",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4971421",
+    "estado": "LLENO",
+    "precinto": "3140866",
+    "ubicacion": "A5",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4572500",
+    "estado": "LLENO",
+    "precinto": "3140867",
+    "ubicacion": "A5",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4610554",
+    "estado": "LLENO",
+    "precinto": "3140868",
+    "ubicacion": "A5",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7773571",
+    "estado": "LLENO",
+    "precinto": "3140870",
+    "ubicacion": "A5",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9667432",
+    "estado": "LLENO",
+    "precinto": "3140855",
+    "ubicacion": "A5",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6315434",
+    "estado": "LLENO",
+    "precinto": "3140853",
+    "ubicacion": "A5",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4925174",
+    "estado": "LLENO",
+    "precinto": "3140853",
+    "ubicacion": "A5",
+    "producto": "ARAMES 2.18MM",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5754822",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5525489",
+    "estado": "RIOESTIBA",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "PALLETS",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8051280",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5138122",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8481047",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5039997",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "409020",
+    "estado": "LLENO",
+    "precinto": "3140858",
+    "ubicacion": "A5",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6540220",
+    "estado": "LLENO",
+    "precinto": "3140859",
+    "ubicacion": "A5",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7109485",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9010022",
+    "estado": "LLENO",
+    "precinto": "3140856",
+    "ubicacion": "A5",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6575756",
+    "estado": "LLENO",
+    "precinto": "3140849",
+    "ubicacion": "A5",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7515405",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6769789",
+    "estado": "VACÍO",
+    "precinto": "3321765",
+    "ubicacion": "A5",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "2411498",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1912376",
+    "estado": "LLENO",
+    "precinto": "3140847",
+    "ubicacion": "A5",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5537669",
+    "estado": "LLENO",
+    "precinto": "1058021",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6917191",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A5",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": "VACÍOS"
+  },
+  {
+    "contenedor": "4881985",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A6",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4685250",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A7",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6279851",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A8",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8683339",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A9",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5484508",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A10",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4651260",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A11",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5190410",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A12",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5525345",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A13",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8493024",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A14",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4660684",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A15",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4769343",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A16",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9805793",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A17",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7975377",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A18",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6375285",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A19",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5031229",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A20",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8951045",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A21",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8127117",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A22",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6090451",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A23",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8301128",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A24",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4058014",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A25",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4001376",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A26",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4114308",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A27",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7135885",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A28",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9248257",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A29",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9977732",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A30",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4717220",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A31",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9466281",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A32",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7697779",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A34",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5028480",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A35",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9847880",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A36",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5662786",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A37",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6216113",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A38",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9468349",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A39",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8038262",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A40",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6596365",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A41",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8120233",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A42",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9835040",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A43",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6446901",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A44",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8505451",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A45",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4835648",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A46",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4974520",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A47",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8057589",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A48",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8066410",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A49",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7088351",
+    "estado": "VACÍO",
+    "precinto": "3321780",
+    "ubicacion": "330",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7921317",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A50",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4727289",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9128387",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "330",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "741997",
+    "estado": "VACÍO",
+    "precinto": "1058035",
+    "ubicacion": "720",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4726662",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5513525",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "A51",
+    "producto": "",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8935080",
+    "estado": "LLENO",
+    "precinto": "1058005",
+    "ubicacion": "A5",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "7599053",
+    "estado": "ABIERTO",
+    "precinto": "3321839",
+    "ubicacion": "720",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-03-01",
+    "areas": "LÍNEA DE FIBRA"
+  },
+  {
+    "contenedor": "8807418",
+    "estado": "LLENO",
+    "precinto": "33221705",
+    "ubicacion": "A5",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": "LÍNEA DE FIBRA"
+  },
+  {
+    "contenedor": "8888256",
+    "estado": "ABIERTO",
+    "precinto": "33221704",
+    "ubicacion": "720",
+    "producto": "TALCO",
+    "inspeccion": "2026-03-01",
+    "areas": "LÍNEA DE FIBRA"
+  },
+  {
+    "contenedor": "5614174",
+    "estado": "ABIERTO",
+    "precinto": "1058021",
+    "ubicacion": "720",
+    "producto": "BW 2.18MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": "LÍNEA 1"
+  },
+  {
+    "contenedor": "3585531",
+    "estado": "ABIERTO",
+    "precinto": "3321823",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": "LÍNEA 1"
+  },
+  {
+    "contenedor": "7877979",
+    "estado": "ABIERTO",
+    "precinto": "3321881",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": "LÍNEA 2"
+  },
+  {
+    "contenedor": "1820579",
+    "estado": "LLENO",
+    "precinto": "ARRIBA",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-03-01",
+    "areas": "LÍNEA 3"
+  },
+  {
+    "contenedor": "2155819",
+    "estado": "LLENO ",
+    "precinto": "3321831",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-01-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "5100455",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2025-08-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8192871",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2025-08-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9042989",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2025-08-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6375283",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "",
+    "producto": "",
+    "inspeccion": "2025-08-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "9072715",
+    "estado": "VACÍO",
+    "precinto": "1058022",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "2025-08-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "6279651",
+    "estado": "VACÍO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "",
+    "inspeccion": "",
+    "areas": ""
+  },
+  {
+    "contenedor": "8733784",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "RESINA HPR 1200",
+    "inspeccion": "2026-01-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4578658",
+    "estado": "ABIERTO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "CELULOSA ROTA",
+    "inspeccion": "2026-01-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4004694",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-01-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4839761",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "ARAMES 3MM",
+    "inspeccion": "2026-01-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "4844109",
+    "estado": "LLENO",
+    "precinto": "3140845",
+    "ubicacion": "720",
+    "producto": "TALCO",
+    "inspeccion": "2026-01-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "8799104",
+    "estado": "LLENO",
+    "precinto": "",
+    "ubicacion": "720",
+    "producto": "SULFATO DE MAGNESIO",
+    "inspeccion": "2026-01-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "1011527",
+    "estado": "LLENO",
+    "precinto": "3321793",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-01-01",
+    "areas": ""
+  },
+  {
+    "contenedor": "3997177",
+    "estado": "LLENO",
+    "precinto": "3321842",
+    "ubicacion": "720",
+    "producto": "BW 3MM X 1300",
+    "inspeccion": "2026-01-01",
+    "areas": ""
+  }
+]

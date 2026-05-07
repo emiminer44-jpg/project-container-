@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "Rioestiba",
+    "slug": "container-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a237e"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.contenedores.app2026",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Necesitamos acceso a la c\u00e1mara para escanear c\u00f3digos de barras de precintos.",
+        "NSPhotoLibraryUsageDescription": "Acceso a la galer\u00eda para importar archivos."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1a237e"
+      },
+      "package": "com.contenedores.app2026",
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Necesitamos acceso a la c\u00e1mara para escanear precintos."
+        }
+      ],
+      [
+        "expo-barcode-scanner",
+        {
+          "cameraPermission": "Necesitamos acceso a la c\u00e1mara para escanear c\u00f3digos de barras."
+        }
+      ],
+      "expo-document-picker"
+    ]
+  }
+}
