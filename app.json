@@ -19,7 +19,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "npm install --global eas-cli && npx create-expo-app containerapp && cd containerapp && eas init --id dd97ecff-a0b7-4199-9da0-9ffcb3ee1505"
+        "projectId": "dd97ecff-a0b7-4199-9da0-9ffcb3ee1505"
       }
     }
   }
