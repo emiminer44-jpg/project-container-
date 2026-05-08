@@ -70,18 +70,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Prebuild Android
-        run: npx expo prebuild --platform android --clean
-
-      - name: Crear color splashscreen_background
-        run: |
-          mkdir -p android/app/src/main/res/values
-          cat > android/app/src/main/res/values/colors.xml << 'EOF'
-          <?xml version="1.0" encoding="utf-8"?>
-          <resources>
-            <color name="splashscreen_background">#0d1757</color>
-          </resources>
-          EOF
-
       - name: Build APK
         run: eas build --profile preview --platform android --non-interactive
