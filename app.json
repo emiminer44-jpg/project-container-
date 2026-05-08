@@ -4,11 +4,24 @@
     "slug": "containerapp",
     "version": "1.0.0",
     "orientation": "portrait",
+    "icon": "./assets/icon.png",
     "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
       "backgroundColor": "#0d1757"
     },
     "android": {
-      "package": "com.rioestiba.containerapp"
+      "package": "com.rioestiba.containerapp",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0d1757"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.rioestiba.containerapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
